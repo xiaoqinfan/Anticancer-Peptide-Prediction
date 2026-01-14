@@ -39,7 +39,7 @@ The workflow consists of four stages:
 3.  **Selection**: XGBoost-based thresholding (>1.2*mean).
 4.  **Prediction**: Weighted Soft Voting (RF + XGB).
 
-*(`![Workflow](images/Figure1.png)`)*
+![The flowchart of the proposed framework](images/Figure1.png)
 
 ## 🚀 Quick Start
 
